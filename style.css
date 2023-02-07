@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100&display=swap');
+
+body{
+    background: linear-gradient(90deg, #e447e4 0%, #3d0164 100%);
+    text-align: center;
+    
+}
+
+#clock{
+    color: #faeee3;
+    margin-top: 30vh;
+    font-weight: bold;
+    font-size: 20vh;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+#calendar{
+    color: #faeee3;
+    font-weight: bold;
+    font-size: 5vh;
+    font-family: 'JetBrains Mono', monospace;
+}
